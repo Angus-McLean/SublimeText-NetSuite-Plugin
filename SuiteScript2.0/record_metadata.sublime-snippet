@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[record_metadata(${1:object});$0 ]]></content> <tabTrigger>record_metadata</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

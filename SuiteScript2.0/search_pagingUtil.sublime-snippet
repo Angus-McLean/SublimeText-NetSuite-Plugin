@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[search_pagingUtil(${1:pageSize});$0 ]]></content> <tabTrigger>search_pagingUtil</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

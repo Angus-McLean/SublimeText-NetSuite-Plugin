@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[metadata_sublistDefinition(${1:delegate},${2:permissions});$0 ]]></content> <tabTrigger>metadata_sublistDefinition</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

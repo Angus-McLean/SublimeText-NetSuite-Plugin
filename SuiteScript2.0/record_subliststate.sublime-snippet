@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[record_subliststate(${1:name},${2:sublistStateJSON},${3:fieldMetadatas});$0 ]]></content> <tabTrigger>record_subliststate</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

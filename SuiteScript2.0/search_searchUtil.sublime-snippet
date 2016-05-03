@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[search_searchUtil(${1:allow});$0 ]]></content> <tabTrigger>search_searchUtil</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

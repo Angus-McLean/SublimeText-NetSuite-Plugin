@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[util_currencyUtility(${1:n},${2:recordContext});$0 ]]></content> <tabTrigger>util_currencyUtility</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

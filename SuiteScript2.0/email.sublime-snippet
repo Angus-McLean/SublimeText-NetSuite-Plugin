@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[email(${1:campaignEventId},${2:recipientId});$0 ]]></content> <tabTrigger>email</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

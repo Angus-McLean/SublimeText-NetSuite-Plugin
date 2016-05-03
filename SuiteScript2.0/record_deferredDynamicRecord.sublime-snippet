@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[record_deferredDynamicRecord(${1:b},${2:a});$0 ]]></content> <tabTrigger>record_deferredDynamicRecord</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

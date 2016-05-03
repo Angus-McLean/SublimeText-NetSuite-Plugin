@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[record_cacheprovider(${1:objectType});$0 ]]></content> <tabTrigger>record_cacheprovider</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

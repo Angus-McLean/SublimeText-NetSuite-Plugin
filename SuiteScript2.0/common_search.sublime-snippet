@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[common_search(${1:options});$0 ]]></content> <tabTrigger>common_search</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[utilityFunctionsImpl(${1:url},${2:remoteMethodName},${3:args});$0 ]]></content> <tabTrigger>utilityFunctionsImpl</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

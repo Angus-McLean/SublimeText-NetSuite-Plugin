@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[record_recordstate(${1:metadata},${2:data});$0 ]]></content> <tabTrigger>record_recordstate</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[restricted_bridge(${1:myCode},${2:myDetails},${3:suppressNotification});$0 ]]></content> <tabTrigger>restricted_bridge</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

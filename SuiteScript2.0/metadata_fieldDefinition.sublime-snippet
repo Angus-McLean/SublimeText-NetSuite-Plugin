@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[metadata_fieldDefinition(${1:delegate},${2:permissions});$0 ]]></content> <tabTrigger>metadata_fieldDefinition</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

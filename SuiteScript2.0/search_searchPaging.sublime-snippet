@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[search_searchPaging(${1:options});$0 ]]></content> <tabTrigger>search_searchPaging</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

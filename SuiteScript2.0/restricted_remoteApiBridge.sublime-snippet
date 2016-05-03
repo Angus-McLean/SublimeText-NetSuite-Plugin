@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[restricted_remoteApiBridge(${1:record});$0 ]]></content> <tabTrigger>restricted_remoteApiBridge</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>/tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

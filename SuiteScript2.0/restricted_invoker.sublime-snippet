@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[restricted_invoker(${1:j},${2:h},${3:f},${4:g});$0 ]]></content> <tabTrigger>restricted_invoker</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

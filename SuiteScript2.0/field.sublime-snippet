@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[field(${1:f});$0 ]]></content> <tabTrigger>field</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

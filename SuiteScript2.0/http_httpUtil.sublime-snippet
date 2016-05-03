@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[http_httpUtil(${1:options},${2:callback});$0 ]]></content> <tabTrigger>http_httpUtil</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

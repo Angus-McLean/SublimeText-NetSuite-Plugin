@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[currentRecord_currentSubrecord(${1:subrecordObj});$0 ]]></content> <tabTrigger>currentRecord_currentSubrecord</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>

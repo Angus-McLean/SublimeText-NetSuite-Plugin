@@ -1,0 +1,1 @@
+<snippet> <content><![CDATA[pagination_paginationObject(${1:delegate});$0 ]]></content> <tabTrigger>pagination_paginationObject</tabTrigger> <scope>source.js, text.html.ssp</scope> </snippet>
